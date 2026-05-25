@@ -1,4 +1,4 @@
-# Hi, I'm Mansha 👋
+# Hi, I'm Mansha
 
 **B.Sc. Data Science student @ Mount Carmel College, Bangalore | GPA 9.21**  
 Turning raw data into decisions — from statistical modelling to live ML deployments.  
