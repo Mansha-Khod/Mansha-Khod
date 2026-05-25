@@ -2,7 +2,7 @@
 
 **B.Sc. Data Science student @ Mount Carmel College, Bangalore | GPA 9.21**  
 Turning raw data into decisions — from statistical modelling to live ML deployments.  
-International Finalist, YDCT Climate-Tech Challenge 2026 | 2× Datathon Winner
+International Finalist, YDCT Climate-Tech Challenge 2026 
 
 ---
 
