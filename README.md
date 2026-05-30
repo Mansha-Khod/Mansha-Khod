@@ -32,6 +32,7 @@ MySQL · Supabase · Git · GitHub · Railway · Vercel
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Supply Chain Risk Engine](https://github.com/Mansha-Khod/supply-chain-risk-engine) | End-to-end ML pipeline predicting shipment delays, severity & customer risk on 180k+ records — with SHAP explainability and live dashboard | Python · XGBoost · Random Forest · K-Means · SHAP · Streamlit |
 | [HazeRadar](https://github.com/Mansha-Khod/HazeRadar) | Live air quality forecasting + haze detection with GNN & computer vision | Python · React · PyTorch · GATv2 · Flask |
 | [Diamond Price Prediction](https://github.com/Mansha-Khod/diamond-price-prediction) | 7-model regression comparison on 53K records; best MAPE 2.50%, R² 0.948 | R · Statistical Modelling |
 | [GL Reconciliation](https://github.com/Mansha-Khod/reconciliation-analysis) | Automated audit-style mismatch reports between General Ledger & Trial Balance | Python · Pandas |
