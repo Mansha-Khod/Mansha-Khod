@@ -1,6 +1,6 @@
 # Hi, I'm Mansha
 
-**B.Sc. Data Science student @ Mount Carmel College, Bangalore | GPA 9.21**  
+**B.Sc. Data Science student @ Mount Carmel College, Bangalore | GPA 9.45**  
 Turning raw data into decisions — from statistical modelling to live ML deployments.  
 International Finalist, YDCT Climate-Tech Challenge 2026 
 
