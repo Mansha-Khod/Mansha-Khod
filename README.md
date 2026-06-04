@@ -1,8 +1,8 @@
 # Hi, I'm Mansha
 
 **B.Sc. Data Science student @ Mount Carmel College, Bangalore | GPA 9.45**  
-Turning raw data into decisions — from statistical modelling to live ML deployments.  
-International Semifinalist (Awarded Finalist Honors) | YDCT Climate-Tech Challenge 2026 
+Turning raw data into decisions from statistical modelling to live ML deployments.  
+International Finalist  | YDCT Climate-Tech Challenge 2026 
 
 ---
 
@@ -21,7 +21,7 @@ EDA · Feature Engineering · Data Cleaning · Model Evaluation · Cross Validat
 Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Plotly · Streamlit
 
 **Visualisation:**  
-Power BI · Excel (Advanced) · Tableau *(learning)*
+Power BI · Excel (Advanced) · Tableau 
 
 **Platforms & Tools:**  
 MySQL · Supabase · Git · GitHub · Railway · Vercel
@@ -34,7 +34,7 @@ MySQL · Supabase · Git · GitHub · Railway · Vercel
 | Project | What it does | Stack |
 |---|---|---|
 | [Supply Chain Risk Engine](https://github.com/Mansha-Khod/supply-chain-risk-engine) | End-to-end ML pipeline predicting shipment delays, severity & customer risk on 180k+ records — with SHAP explainability and live dashboard | Python · XGBoost · Random Forest · K-Means · SHAP · Streamlit |
-| [HazeRadar](https://github.com/Mansha-Khod/HazeRadar) | Live air quality forecasting + haze detection with GNN & computer vision | Python · React · PyTorch · GATv2 · Flask |
+| [HazeRadar (YDCT Team Project)](https://github.com/Mansha-Khod/HazeRadar) | Live air quality forecasting + haze detection with GNN & computer vision | Python · React · PyTorch · GATv2 · Flask |
 | [Diamond Price Prediction](https://github.com/Mansha-Khod/diamond-price-prediction) | 7-model regression comparison on 53K records; best MAPE 2.50%, R² 0.948 | R · Statistical Modelling |
 | [GL Reconciliation](https://github.com/Mansha-Khod/reconciliation-analysis) | Automated audit-style mismatch reports between General Ledger & Trial Balance | Python · Pandas |
 | [Java-Cart](https://github.com/Mansha-Khod/Java-Cart) | Console shopping app with MySQL backend and CRUD via JDBC | Java · MySQL |
@@ -47,8 +47,7 @@ MySQL · Supabase · Git · GitHub · Railway · Vercel
 - **1st Place** — "Inception", Metamind Fest, St. Joseph's University (2026)
 - **1st Place** — Dataverse Datathon, Kristu Jayanti College (2025)
 - **2nd Place** — "Fireball" Team Event, Master's Datagram Fest, St. Joseph's University (2024)
-- **International Semifinalist (Awarded Finalist Certification)** — YDCT Climate-Tech Challenge, Singapore (2026)  
-  *Note: Awarded official Finalist status by the organizing committee following an investigation into competitor ethics violations.*
+- **International Finalist** — YDCT Climate-Tech Challenge, Singapore (2026)  
 
 ---
 
