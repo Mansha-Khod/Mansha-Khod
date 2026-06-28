@@ -1,8 +1,9 @@
 # Hi, I'm Mansha
 
 **B.Sc. Data Science student @ Mount Carmel College, Bangalore | GPA 9.36**  
-Turning raw data into decisions from statistical modelling to live ML deployments.  
-International Finalist  | YDCT Climate-Tech Challenge 2026 
+Turning raw data into decisions—from statistical modelling, machine learning, and analytics to intelligent document systems powered by LLMs.  
+**Currently exploring:** NLP · LLMs · Retrieval-Augmented Generation (RAG)  
+International Finalist | YDCT Climate-Tech Challenge 2026
 
 ---
 
@@ -14,6 +15,9 @@ Python · R · SQL · Java · MATLAB
 **Machine Learning:**  
 Linear Regression · Ridge/Lasso Regression · Logistic Regression · Decision Trees · Random Forests · XGBoost · K-Means Clustering · DBSCAN · Hierarchical Clustering
 
+**NLP & LLMs:**  
+Retrieval-Augmented Generation (RAG) · Semantic Search · Sentence Transformers · Vector Embeddings · FAISS · Prompt Engineering · Gemini API
+
 **Data Science & Statistics:**  
 EDA · Feature Engineering · Data Cleaning · Model Evaluation · Cross Validation · Data Visualization
 
@@ -21,7 +25,7 @@ EDA · Feature Engineering · Data Cleaning · Model Evaluation · Cross Validat
 Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Plotly · Streamlit
 
 **Visualisation:**  
-Power BI · Excel (Advanced) · Tableau 
+Power BI · Excel (Advanced) · Tableau
 
 **Platforms & Tools:**  
 MySQL · Supabase · Git · GitHub · Railway · Vercel
@@ -30,10 +34,10 @@ MySQL · Supabase · Git · GitHub · Railway · Vercel
 
 ## Featured Projects
 
-
 | Project | What it does | Stack |
 |---|---|---|
 | [Supply Chain Risk Engine](https://github.com/Mansha-Khod/supply-chain-risk-engine) | End-to-end ML pipeline predicting shipment delays, severity & customer risk on 180k+ records — with SHAP explainability and live dashboard | Python · XGBoost · Random Forest · K-Means · SHAP · Streamlit |
+| [DocuMind](https://github.com/Mansha-Khod/DocuMind) | Intelligent document assistant using RAG, semantic search, FAISS vector search, executive summaries, key insights and grounded question answering over PDFs | Python · Streamlit · Gemini API · Sentence Transformers · FAISS |
 | [HazeRadar (YDCT Team Project)](https://github.com/Mansha-Khod/HazeRadar) | Live air quality forecasting + haze detection with GNN & computer vision | Python · React · PyTorch · GATv2 · Flask |
 | [Diamond Price Prediction](https://github.com/Mansha-Khod/diamond-price-prediction) | 7-model regression comparison on 53K records; best MAPE 2.50%, R² 0.948 | R · Statistical Modelling |
 | [GL Reconciliation](https://github.com/Mansha-Khod/reconciliation-analysis) | Automated audit-style mismatch reports between General Ledger & Trial Balance | Python · Pandas |
@@ -42,12 +46,22 @@ MySQL · Supabase · Git · GitHub · Railway · Vercel
 
 ---
 
+## Currently Exploring
+
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- MLOps
+
+---
+
 ## Achievements
 
 - **1st Place** — "Inception", Metamind Fest, St. Joseph's University (2026)
 - **1st Place** — Dataverse Datathon, Kristu Jayanti College (2025)
 - **2nd Place** — "Fireball" Team Event, Master's Datagram Fest, St. Joseph's University (2024)
-- **International Finalist** — YDCT Climate-Tech Challenge, Singapore (2026)  
+- **International Finalist** — YDCT Climate-Tech Challenge, Singapore (2026)
 
 ---
 
